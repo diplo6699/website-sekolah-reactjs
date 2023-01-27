@@ -6,7 +6,7 @@ import hero3 from "./../assets/depansekolah3.jpg";
 
 const Hero = () => {
   return (
-    <Carousel>
+    <Carousel id="action1">
       <Carousel.Item>
         <img className="d-block w-100" src={hero1} alt="First slide" />
         <Carousel.Caption>
