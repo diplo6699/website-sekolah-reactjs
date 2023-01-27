@@ -15,7 +15,7 @@ const MainContent = () => {
     <>
       <Hero />;
       <div className="container">
-        <div classname="row">
+        <div className="row">
           <div className="col-12 text-center my-5">
             <h1 id="action2">Jurusan</h1>
           </div>
